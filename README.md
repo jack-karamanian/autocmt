@@ -1,4 +1,4 @@
-autocmt
+autocmt.py
 =======
 
 I hate documentation boxes for my programming assignments.
