@@ -5,7 +5,7 @@ I hate documentation boxes for my programming assignments.
 
 This will insert them in no time at all!
 
-Usage:
+**Usage:**
 
     autocmt.py [-o] sourcefile.cpp
     
