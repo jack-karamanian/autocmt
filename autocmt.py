@@ -1,5 +1,4 @@
 #!/usr/bin/env python
-import sys
 
 class DocBlockInfo:
 	def __init__(self, name, args):
@@ -97,6 +96,7 @@ def usage():
 	print("Usage: autocmt.py [-o] sourcefile")
 
 def main():
+	import sys
 	from clang.cindex import Index, Config
 	from io import open
 
