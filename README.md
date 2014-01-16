@@ -1,7 +1,7 @@
 autocmt
 =======
 
-I hate documentation boxes for my programming assignments.
+I hate writing documentation boxes for my C++ programming assignments.
 
 This will insert them in no time at all!
 
